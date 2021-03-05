@@ -1,0 +1,1 @@
+Please add your image, output of the first challenge, in this folder

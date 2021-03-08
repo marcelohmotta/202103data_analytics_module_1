@@ -11,10 +11,10 @@ You will be creating your own repository by forking this repository on to your o
 github account, the same way as you did with your prework. Subsequently  you can clone the repository on your machine and start working on it
  
 ## How to submit your labs
-1. Complete the assigned lab in the module_1 folder. **Please do not create new files but just fill out the lab file**
-2. Push the lab to your remote repository
+1. Complete the assigned lab in the module_1 folder. **Please do not create new files (unless specifically asked) but just fill out the lab file**
+2. Add, commit and push the lab to your remote repository
 3. Copy paste the link of your lab on your lab card, on the Trello board
-4. Move your lab card on the Trello board to "Done"
+4. Move your lab card on the [Trello board](https://trello.com/b/stdbBbKA/ironhack-data-analytics-032021) to "Done"
 5. Check the Trello board here for more information on lab submission 
 
 ## Note on lab solutions and submissions
